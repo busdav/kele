@@ -2,7 +2,7 @@
 
 ### REST API Client
 
-API Client Gem built to access [Bloc's REST API](http://docs.blocapi.apiary.io/#). With kind inspiration by [Kasey Markham](https://medium.com/@builtbykasey/kele-api-client-gem-case-study-5566b947fb46).
+API Client Gem built to access [Bloc's REST API](http://docs.blocapi.apiary.io/#). With kind inspiration from [Kasey Markham](https://medium.com/@builtbykasey). 
 
 ## Project Objectives
 
